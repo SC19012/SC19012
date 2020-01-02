@@ -1,0 +1,17 @@
+Package: SC19012
+Type: Package
+Title: HW in SC 19012-2019
+Version: 1.0
+Date: 2019-12-30
+Author: Xu He
+Maintainer: Xu He <hex1996@mail.ustc.edu.cn>
+Description: HW in SC.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.16), microbenchmark, knitr, rmarkdown
+LinkingTo: Rcpp
+RoxygenNote: 7.0.2
+VignetteBuilder: knitr
+URL: http://github.com/SC19012/SC19012
+BugReports: http://github.com/SC19012/SC19012/issues
+Encoding:UTF-8
+LazyData:true
